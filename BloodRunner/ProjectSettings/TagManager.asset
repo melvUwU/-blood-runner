@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - blooddrop
+  - coin
+  - enemy
+  - badguys
+  - patient
+  - medic
+  - end
+  - general
+  - pressE
+  - medicE
+  - medicNone
+  - city
+  - poor
+  - seven
+  - city2
+  - brand
+  - city3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Background
+  - medic
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 1559346135
+    locked: 0
+  - name: Place
+    uniqueID: 3467191325
+    locked: 0
+  - name: Medic
+    uniqueID: 3851290219
+    locked: 0
+  - name: Entity
+    uniqueID: 66730641
+    locked: 0
+  - name: Smoke
+    uniqueID: 122333819
+    locked: 0
+  - name: Fore
+    uniqueID: 331852651
+    locked: 0
